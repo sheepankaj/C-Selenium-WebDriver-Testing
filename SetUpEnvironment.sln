@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetUpEnvironment", "SetUpEnvironment\SetUpEnvironment.csproj", "{EB47D122-D8BD-4DED-9EE2-AA4D1E0A4201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB47D122-D8BD-4DED-9EE2-AA4D1E0A4201}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EB47D122-D8BD-4DED-9EE2-AA4D1E0A4201}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EB47D122-D8BD-4DED-9EE2-AA4D1E0A4201}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EB47D122-D8BD-4DED-9EE2-AA4D1E0A4201}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
