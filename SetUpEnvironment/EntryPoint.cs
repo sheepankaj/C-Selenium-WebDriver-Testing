@@ -23,7 +23,7 @@ class EntryPoint
         string classname = "testClass";
 
         driver.Navigate().GoToUrl(urlName);
-        //driver.Manage().Window.Maximize();
+        driver.Manage().Window.Maximize();
 
         Thread.Sleep(3000);
 
