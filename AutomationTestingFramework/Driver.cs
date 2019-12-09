@@ -1,10 +1,11 @@
 ﻿using System;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
+
 namespace AutomationTestingFramework
 {
-    public class Driver
+    public static class Driver
     {
-        public Driver()
-        {
-        }
+        public static IWebDriver driver = new ChromeDriver();
     }
 }

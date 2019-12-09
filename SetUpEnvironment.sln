@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetUpEnvironment", "SetUpEnvironment\SetUpEnvironment.csproj", "{EB47D122-D8BD-4DED-9EE2-AA4D1E0A4201}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationTestingFramework", "AutomationTestingFramework\AutomationTestingFramework.csproj", "{7B370D16-5800-41AC-AA36-1C3C783BD1AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -13,5 +15,9 @@ Global
 		{EB47D122-D8BD-4DED-9EE2-AA4D1E0A4201}.Debug|anycpu.Build.0 = Debug|anycpu
 		{EB47D122-D8BD-4DED-9EE2-AA4D1E0A4201}.Release|anycpu.ActiveCfg = Release|anycpu
 		{EB47D122-D8BD-4DED-9EE2-AA4D1E0A4201}.Release|anycpu.Build.0 = Release|anycpu
+		{7B370D16-5800-41AC-AA36-1C3C783BD1AC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{7B370D16-5800-41AC-AA36-1C3C783BD1AC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{7B370D16-5800-41AC-AA36-1C3C783BD1AC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{7B370D16-5800-41AC-AA36-1C3C783BD1AC}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
